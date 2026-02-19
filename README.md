@@ -39,10 +39,8 @@
 > [!IMPORTANT]
 > **Expo Go ile Deneyin:** [Uygulama Linki Buradadır](https://8081-a73671c9-8030-42fb-9b2d-6d52855cbb5a.orchids.cloud/)
 > 
-> *Linkin açılmaması durumunda lütfen aşağıdaki veya repo içerisindeki tanıtım videosunu izleyiniz.*
+> *Linkin açılmaması durumunda lütfen repo içerisindeki tanıtım videosunu izleyiniz.*
 
-### 📺 Uygulama Tanıtım Videosu
-![Uygulama Demosu](demo.mp4)
 
 ---
 
