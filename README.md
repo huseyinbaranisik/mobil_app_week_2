@@ -1,5 +1,5 @@
-# <p align="center">🏆 VITALITY CONNECT</p>
-## <p align="center">✨ The Future of Fitness ✨</p>
+# <p align="center">🏆 VITALITY CONNECT: HEALTH & SOCIAL HUB</p>
+## <p align="center">🏃 Sosyal Spor, Erişilebilirlik ve Akıllı Sağlık Takip Platformu</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developed%20with-Orchids%20AI-blueviolet?style=for-the-badge&logo=openai" />
